@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-anthony
 - 👀 I’m interested in programing 
-- 🌱 I’m currently learning Laravel / Angular / Ionic
+- 🌱 I’m currently learning Laravel / Angular / Codeigniter4
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... on titter how @webfazt
 
