@@ -4,7 +4,7 @@
 - 🏙 I'm from México
 - 🏫I'm currently studying Ing. TICS (Information and Communication Technologies)
 - 🌱 I’m currently learning Laravel / Codeigniter4 / NodeJS / Angular
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a enterprice dedicate of the programing
 - 📫 How to reach me ... on Titter how @webfazt on Instagram how: anthonysn.dev
 
 <!---
